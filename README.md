@@ -26,10 +26,10 @@ The following sources are included:
   Each platform supports their own set of kotlin multi-platform targets
   | Source Name  | JVM | Linux X64 | Limitations  |
   | :----------- | :-: | :-------: | :----------- |
-  | YouTube      | ✅  | ❌        | HTML Parsing |
-  | SoundCloud   | ✅  | ❌        | HTML Parsing |
-  | Bandcamp     | ✅  | ❌        | HTML Parsing |
-  | Vimeo        | ✅  | ❌        | HTML Parsing |
+  | YouTube      | ✅  | 👷        | HTML Parsing |
+  | SoundCloud   | ✅  | 👷        | HTML Parsing |
+  | Bandcamp     | ✅  | 👷        | HTML Parsing |
+  | Vimeo        | ✅  | 👷        | HTML Parsing |
   | Twitch       | ✅  | ❌        | HTML Parsing |
   | Spotify*     | ✅  | ✅        | N/A          |
   | Deezer       | ✅  | ✅        | N/A          |
